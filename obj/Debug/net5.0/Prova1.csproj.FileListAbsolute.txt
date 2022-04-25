@@ -1,0 +1,16 @@
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\bin\Debug\net5.0\Prova1.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\bin\Debug\net5.0\Prova1.deps.json
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\bin\Debug\net5.0\Prova1.runtimeconfig.json
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\bin\Debug\net5.0\Prova1.runtimeconfig.dev.json
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\bin\Debug\net5.0\Prova1.dll
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\bin\Debug\net5.0\Prova1.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\obj\Debug\net5.0\Prova1.csproj.AssemblyReference.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\obj\Debug\net5.0\Prova1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\obj\Debug\net5.0\Prova1.AssemblyInfoInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\obj\Debug\net5.0\Prova1.AssemblyInfo.cs
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\obj\Debug\net5.0\Prova1.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\obj\Debug\net5.0\Prova1.dll
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\obj\Debug\net5.0\refint\Prova1.dll
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\obj\Debug\net5.0\Prova1.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\obj\Debug\net5.0\Prova1.genruntimeconfig.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\PrimeiraProva\Prova1\obj\Debug\net5.0\ref\Prova1.dll
